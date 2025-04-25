@@ -1,2 +1,2 @@
 # click_bot
-Having fun on runescape
+Clicks alot
